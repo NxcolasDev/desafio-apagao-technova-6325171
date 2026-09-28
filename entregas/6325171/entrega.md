@@ -5,8 +5,8 @@
   A linha REPO: é OBRIGATÓRIA e deve conter apenas a URL do seu repositório público.
 -->
 
-- **Aluno:** Seu Nome
-- **RA:** SEU-RA
-- **Data:** DD/MM/2026
+- **Aluno:** Nicolas de Jesus Silva
+- **RA:** 6325171
+- **Data:** 26/09/2026
 
-REPO: https://github.com/SEU-USUARIO/desafio-apagao-technova-SEU-RA
+REPO: https://github.com/NxcolasDev/desafio-apagao-technova-6325171
